@@ -1,3 +1,3 @@
 # Digital_Ready_Project
-Title:Uno
-Team Members: Ava, Ajani, Leah
+Title: War
+Team Members: Ava and Leah
